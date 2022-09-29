@@ -1,0 +1,23 @@
+.geralFB {
+    background: lightcoral;
+    margin: -8px;
+    padding-top: 50px;
+    font-size: 21px;
+    font-family: sans-serif
+}
+
+.ftFB {
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+.prjFB {
+    text-align: center;
+}
+
+.ftoFB {
+    text-align: center;
+    height: auto;
+    width: auto;
+}

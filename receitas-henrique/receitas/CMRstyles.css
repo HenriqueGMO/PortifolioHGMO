@@ -1,0 +1,21 @@
+.geralCMR {
+    background: lightcoral;
+    margin: -8px;
+    padding-top: 50px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.ftCMR {
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+.fotoCMR {
+    text-align: center;
+}
+
+.projetoCMR {
+    text-align: center;
+}

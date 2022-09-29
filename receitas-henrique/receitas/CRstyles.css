@@ -1,0 +1,20 @@
+.receitasCR {
+    background: lightcoral;
+    margin: -8px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.fotopratoCR {
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+.aquipratoCR {
+    text-align: center;
+}
+
+.prjCR {
+    text-align: center;
+}

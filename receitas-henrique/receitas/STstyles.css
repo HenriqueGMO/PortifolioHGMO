@@ -1,0 +1,37 @@
+.receitaST {
+    margin: -8px;
+    padding-top: 50px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: -20px;
+}
+
+.FotoPrato {
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+.AquiPrato {
+    text-align: center;
+}
+
+.ProjetoRCT {
+    text-align: center;
+}
+
+.FONTEletras {
+    font-size: 20px;
+}
+
+.FONTEletras2 {
+    font-size: 22px;
+}
+
+.FONTEletras3 {
+    font-size: 20px;
+}
+
+.geral {
+    background: lightcoral;
+}
